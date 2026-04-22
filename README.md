@@ -19,3 +19,8 @@ Para seguir boas práticas de Engenharia de Software, o sistema foi modularizado
 1. Clone o repositório.
 2. Execute o arquivo `main.py`.
 3. Use as credenciais padrão de administrador para o primeiro acesso.
+
+## 🔮 Próximos Passos (Roadmap)
+- [ ] **Módulo de Disciplinas:** Adicionar suporte para múltiplas matérias por aluno.
+- [ ] **Relatórios:** Gerar médias ponderadas por disciplina.
+- [ ] **Níveis de Acesso:** Diferenciar permissões entre Administradores e Professores.
